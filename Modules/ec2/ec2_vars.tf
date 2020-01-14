@@ -1,6 +1,6 @@
-variable "count"{}
+variable "countno"{}
 variable "amiid"{}
-variable "type"{
+variable "i_type"{
 	default = "t2.micro"
 }
 variable "subnet_id"{}
